@@ -1,0 +1,15 @@
+D:\Tugas Pemrog\pertemuan11\abstraksi\bin\Debug\net7.0\abstraksi.exe
+D:\Tugas Pemrog\pertemuan11\abstraksi\bin\Debug\net7.0\abstraksi.deps.json
+D:\Tugas Pemrog\pertemuan11\abstraksi\bin\Debug\net7.0\abstraksi.runtimeconfig.json
+D:\Tugas Pemrog\pertemuan11\abstraksi\bin\Debug\net7.0\abstraksi.dll
+D:\Tugas Pemrog\pertemuan11\abstraksi\bin\Debug\net7.0\abstraksi.pdb
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\abstraksi.csproj.AssemblyReference.cache
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\abstraksi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\abstraksi.AssemblyInfoInputs.cache
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\abstraksi.AssemblyInfo.cs
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\abstraksi.csproj.CoreCompileInputs.cache
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\abstraksi.dll
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\refint\abstraksi.dll
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\abstraksi.pdb
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\abstraksi.genruntimeconfig.cache
+D:\Tugas Pemrog\pertemuan11\abstraksi\obj\Debug\net7.0\ref\abstraksi.dll
